@@ -1,1 +1,1 @@
-print('cao')
+print('Cao svima, ja sam Miloje Joksimovic, saradnik u nastavi na Matematickom fakultetu')
